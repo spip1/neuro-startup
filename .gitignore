@@ -2,4 +2,8 @@
 *_backup
 Thumbs.db
 *.DS_Store
+<<<<<<< HEAD
 tmp/
+=======
+tmp/
+>>>>>>> 608c80a961d16e984db7e0460546881d78057d3f
